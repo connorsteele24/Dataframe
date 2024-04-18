@@ -1,6 +1,3 @@
-"SAINC1 State annual personal income summary: personal income, population, per capita personal income",,,,,,,,,,,,,,,,,,,,,,,,
-"SAINC1 State annual personal income summary: personal income, population, per capita personal income",,,,,,,,,,,,,,,,,,,,,,,,
-State or DC,,,,,,,,,,,,,,,,,,,,,,,,
 GeoFips,GeoName,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018
 0,United States,24725,25925,27493,28592,30551,31548,31801,32659,34183,35669,37843,39588,40854,39307,40557,42649,44237,44401,46287,48060,48971,51004,53309
 1000,Alabama,20599,21487,22651,23296,24258,25046,25671,26700,28385,29780,31264,32516,33441,32717,33849,34887,35564,35713,36729,38197,38712,39975,41330
@@ -62,9 +59,3 @@ GeoFips,GeoName,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008
 96000,Southwest,21837,23208,24666,25451,27169,28432,28505,29326,30525,32569,34896,36232,38686,36206,37567,40199,41951,42537,44701,44889,44320,46709,49293
 97000,Rocky Mountain,23132,24225,25893,26998,28997,29906,29943,30550,31824,33563,35908,37674,38826,36512,37175,39644,41403,42341,44714,46176,46483,48773,51651
 98000,Far West *,25755,26875,28698,30174,32563,33261,33418,34516,36305,37969,40545,42232,42779,40974,42254,44440,46618,46861,49358,52277,54118,56427,59137
-,,,,,,,,,,,,,,,,,,,,,,,,
-Legend/Footnotes,,,,,,,,,,,,,,,,,,,,,,,,
-"2. Per capita personal income is total personal income divided by total midyear population. BEA produced intercensal population statistics for 2010 to 2019 that are tied to the Census Bureau decennial counts for 2010 and 2020 to create consistent time series that are used to prepare per capita personal income statistics. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data in 2024.",,,,,,,,,,,,,,,,,,,,,,,,
-* Estimates prior to 1950 are not available for Alaska and Hawaii.,,,,,,,,,,,,,,,,,,,,,,,,
-Note. All dollar estimates are in millions of current dollars (not adjusted for inflation). Calculations are performed on unrounded data.,,,,,,,,,,,,,,,,,,,,,,,,
-"  Last updated: March 29, 2024-- new statistics for 2023; revised statistics for 2020-2022.",,,,,,,,,,,,,,,,,,,,,,,,
